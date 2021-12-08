@@ -5,6 +5,17 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 
 **Here's my LinkedIn:** [linkedin.com/in/erika-hashizume](https://www.linkedin.com/in/erika-hashizume-37295a153/)
 
-## 🖥 Project I'm currently working on
+## 🖥 Project I've made so far
 
-1. will update soon.
+
+
+1.  [Mami's bakery](https://mamis.netlify.app/) - HTML, SCSS, Javascript (Pare work)
+      Rep: [project-bakery](https://github.com/ertugrulhaskan/project-bakery)
+      SCSS practive and Cart adding system with Javascript. 
+2.  [Erika's life showcase](https://erikahashizume.herokuapp.com/) - django (python)
+     Rep: [a-0521-dev2-finalpr](https://github.com/erika-goodwin/a-0521-dev2-finalpr)
+     The framework practice with django (python). 
+3.  [Weather App](https://afternoon-ravine-59477.herokuapp.com/) - React (JavaScript)
+     Rep: [a-0521-ract-midpr](https://github.com/erika-goodwin/a-0521-react-midpr/tree/Main)
+     The third party API practice with React
+
