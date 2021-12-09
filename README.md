@@ -8,7 +8,8 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 ## 🖥 Project I've made so far
 
 1.  [Yoga Studio Website](https://zen-banach-69b270.netlify.app/) - **HTML, CSS**   
-      Rep: [erika-goodwin.github.io](https://github.com/erika-goodwin/erika-goodwin.github.io)
+      Rep: [erika-goodwin.github.io](https://github.com/erika-goodwin/erika-goodwin.github.io)  
+      Basic css layout practcice with HTML and CSS.
 
 2.  [Mami's bakery](https://mamis.netlify.app/) - **HTML, SCSS, Javascript (Pare work)**  
       Rep: [project-bakery](https://github.com/ertugrulhaskan/project-bakery)  
