@@ -5,6 +5,11 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 
 **Here's my LinkedIn:** [linkedin.com/in/erika-hashizume](https://www.linkedin.com/in/erika-hashizume-37295a153/)
 
+## 👩‍💻 Project I'm working on
+- React API app: [Soacestagram](https://shopify-challenge-api-app.herokuapp.com/) 
+- React API app: [Pokemon Zukan (github)](https://github.com/erika-goodwin/myproject-1-pokemon-app) 
+- React Redux Table App: ...
+
 ## 🖥 Project I've made so far
 
  1.  [Yoga Studio Website](https://zen-banach-69b270.netlify.app/) - **HTML, CSS**   
@@ -13,9 +18,6 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
       Basic css layout practcice with HTML and CS.
       <img width="712" alt="Screen Shot 2021-12-09 at 11 12 19" src="https://user-images.githubusercontent.com/58070973/145461977-0f5ce9cf-2222-4acf-a535-32664f8dc40e.png">  
       <img width="712" alt="Screen Shot 2021-12-09 at 11 12 33" src="https://user-images.githubusercontent.com/58070973/145461984-349e9a96-aabc-4b04-95cc-92c793aff63d.png">
-
-
-      
 
 
  2.  [Mami's bakery](https://mamis.netlify.app/) - **HTML, SCSS, Javascript (Pare work)**  
