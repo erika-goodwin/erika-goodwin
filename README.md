@@ -9,6 +9,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 - React API app: [Soacestagram](https://shopify-challenge-api-app.herokuapp.com/) 
 - React API app: [Pokemon Zukan (github)](https://github.com/erika-goodwin/myproject-1-pokemon-app) 
 - React Redux Table App: ...
+- Node+MongoDB app: [Blog app](https://github.com/erika-goodwin/a0521-node-midpr.git)
 
 ## 🖥 Project I've made so far
 
