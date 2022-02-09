@@ -17,7 +17,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
      Rep: [a-0521-node-midpr](https://github.com/erika-goodwin/a0521-node-midpr/tree/master)  
      Node.js practice with express.
      
-     <img width="500" alt="Blog App" src="https://user-images.githubusercontent.com/58070973/153057065-0feacf26-b6be-45e1-a305-0003c99c08ab.png">
+     <img width="715" alt="Blog App" src="https://user-images.githubusercontent.com/58070973/153057065-0feacf26-b6be-45e1-a305-0003c99c08ab.png">
 
 - **[Weather App](https://afternoon-ravine-59477.herokuapp.com/)** - **React (JavaScript)**  
  
