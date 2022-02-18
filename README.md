@@ -6,6 +6,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 **Here's my LinkedIn:** [linkedin.com/in/erika-hashizume](https://www.linkedin.com/in/erika-hashizume-37295a153/)
 
 ## 👩‍💻 Projects I'm working on
+- Node/Express/React/TypeScript app: [Authorization/expense app](https://github.com/erika-goodwin/a0521-node-finalpr/tree/master)
 - Node/Express/React/Redux app: [My Portfolio (github)](https://github.com/erika-goodwin/myproject-2-portofolio/tree/working)
 - React API app: [Pokemon Zukan (github)](https://github.com/erika-goodwin/myproject-1-pokemon-app) 
 - React API app: [Soacestagram](https://shopify-challenge-api-app.herokuapp.com/) 
@@ -31,13 +32,13 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
      The framework practice with django (python). 
       <img width="715" alt="Erika's life showcase" src="https://user-images.githubusercontent.com/58070973/145462014-face3bfd-836f-49a8-8aad-ca97aacfa54e.png">
 
-- **[Mami's bakery](https://mamis.netlify.app/)** - **HTML, SCSS, Javascript (Pare work)**
+- **[Mami's Responsive bakery](https://mamis.netlify.app/)** - **HTML, SCSS, Javascript (Pare work)**
   
      Rep: [project-bakery](https://github.com/ertugrulhaskan/project-bakery)   
      SCSS practive and Cart adding system with Javascript.   
      <img width="765" alt="Mami's bakery" src="https://user-images.githubusercontent.com/58070973/145462006-9bc30eb6-75ef-443b-b655-9b4d906c1d17.png">
 
-- **[Yoga Studio Website](https://zen-banach-69b270.netlify.app/)** - **HTML, CSS**   
+- **[Yoga Studio Responsive Website](https://zen-banach-69b270.netlify.app/)** - **HTML, CSS**   
 
      Rep: [erika-goodwin.github.io](https://github.com/erika-goodwin/erika-goodwin.github.io)  
       Basic css layout practcice with HTML and CSS
