@@ -29,7 +29,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 - **[Weather App](https://afternoon-ravine-59477.herokuapp.com/)** - **React (JavaScript)**  
  
      Rep: [a-0521-ract-midpr](https://github.com/erika-goodwin/a-0521-react-midpr/tree/Main)  
-     The third party API practice with React.  Deploy with Heroku. 
+     The third party API practice with React.  Deploy with Heroku.   
       <img width="500" alt="Weather App" src="https://user-images.githubusercontent.com/58070973/145461573-6f378fd1-c76b-48c9-b59d-e44be721b68e.png">
 
 - **[Erika's life showcase](https://erikahashizume.herokuapp.com/)** - **django (python)**  
