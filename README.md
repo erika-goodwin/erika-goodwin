@@ -6,7 +6,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 **Here's my LinkedIn:** [linkedin.com/in/erika-hashizume](https://www.linkedin.com/in/erika-hashizume-37295a153/)
 
 ## 👩‍💻 Projects I'm working on
-- Node/Express/React/Redux app: [My Portfolio (github)](https://github.com/erika-goodwin/myproject-2-portofolio/tree/working)
+- MERN app with Nodemailer: [My Portfolio (github)](https://github.com/erika-goodwin/myproject-2-portofolio/tree/B+F+Contact+Project)
 - React API app: [Pokemon Zukan (github)](https://github.com/erika-goodwin/myproject-1-pokemon-app) 
 - React API app: [Soacestagram](https://shopify-challenge-api-app.herokuapp.com/) 
 
