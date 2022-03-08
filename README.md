@@ -5,21 +5,31 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 
 **Here's my LinkedIn:** [linkedin.com/in/erika-hashizume](https://www.linkedin.com/in/erika-hashizume-37295a153/)
 
+**Here's my Portfolio:** [erikahashizu.me](https://www.erikahashizu.me/)
+
 ## 👩‍💻 Projects I'm working on
-- MERN app with Nodemailer: [My Portfolio (github)](https://github.com/erika-goodwin/myproject-2-portofolio/tree/F+B+ContactFunc)
+
 - React API app: [Pokemon Zukan (github)](https://github.com/erika-goodwin/myproject-1-pokemon-app) 
-- React API app: [Soacestagram](https://shopify-challenge-api-app.herokuapp.com/) 
+
 
 ## 🖥 Projects I've made so far
 
-- **[Authorization/expense app](https://heuristic-perlman-0e7948.netlify.app/)** - **React, Node, Express, MongoDB**  
+- **[My Portfolio](https://www.erikahashizu.me/)** - **React, Node, Express, MongoDB, Mongoose, NodeMailer, Sass**  
+
+     Rep: [myPortfolio-client](https://github.com/erika-goodwin/myPortfolio-client/tree/master)  
+     Rep: [myPortfolio-server](https://github.com/erika-goodwin/myPortfolio-server/tree/master)  
+     MERN app with Nodemailer. Deploy with Heroku and Netlify.
+     <img width="715" alt="My Portfolio" src="https://user-images.githubusercontent.com/58070973/157274154-dea593ec-df8c-4707-98a7-dcaf3b614659.png">
+
+     
+- **[Authorization/expense app](https://heuristic-perlman-0e7948.netlify.app/)** - **React, Node, Express, MongoDB, Bootstrap**  
 
      Rep: [a-0521-node-finalpr-client](https://github.com/erika-goodwin/a-0521-node-finalpr-client/tree/master)  
      Rep: [a-0521-node-finalpr-server](https://github.com/erika-goodwin/a-0521-node-finalpr-server/tree/master)  
      Node.js authorizaion practice with MERN spec. Deploy with Heroku and Netlify.
      
 
-- **[Blog App](https://node-mongo-blog-app.herokuapp.com/api/blogs)** - **Node, Express, MongoDB (JavaScript)**  
+- **[Blog App](https://node-mongo-blog-app.herokuapp.com/api/blogs)** - **Node, Express, MongoDB, Tailwindscss**  
  
      Rep: [a-0521-node-midpr](https://github.com/erika-goodwin/a0521-node-midpr/tree/master)  
      Node.js CRUD practice with express. Deploy with Heroku.
