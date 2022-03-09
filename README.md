@@ -9,6 +9,8 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 
 ## 👩‍💻 Projects I'm working on
 
+- <Updating> Weather Health App: [Weather App (github)](https://github.com/erika-goodwin/a-0521-react-midpr/tree/addingFirebase)
+     Adding firebase database and authorization system into React app.
 - React API app: [Pokemon Zukan (github)](https://github.com/erika-goodwin/myproject-1-pokemon-app) 
 
 
