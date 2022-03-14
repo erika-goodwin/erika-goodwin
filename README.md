@@ -9,9 +9,8 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 
 ## 👩‍💻 Projects I'm working on
 
-- <Updating> Weather Health App: [Weather App (github)](https://github.com/erika-goodwin/a-0521-react-midpr/tree/addingFirebase)
-     Adding firebase database and authorization system into React app.
-- React API app: [Pokemon Zukan (github)](https://github.com/erika-goodwin/myproject-1-pokemon-app) 
+- |between project and project| Will be updated
+
 
 
 ## 🖥 Projects I've made so far
@@ -38,7 +37,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
      
      <img width="715" alt="Blog App" src="https://user-images.githubusercontent.com/58070973/153057065-0feacf26-b6be-45e1-a305-0003c99c08ab.png">
 
-- **[Weather App](https://afternoon-ravine-59477.herokuapp.com/)** - **React (JavaScript)**  
+- **[Weather App](https://afternoon-ravine-59477.herokuapp.com/)** - **React, Firebase**  
  
      Rep: [a-0521-ract-midpr](https://github.com/erika-goodwin/a-0521-react-midpr/tree/Main)  
      The third party API practice with React.  Deploy with Heroku.   
