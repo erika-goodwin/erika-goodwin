@@ -9,7 +9,8 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 
 ## 👩‍💻 Projects I'm working on
 
-- |between project and project| Will be updated
+-  **POI Map web app** - Next.js, Mapbox, MongoDB, TailwindCss, Clerk   
+     Rep: [POIMap](https://github.com/erika-goodwin/poimap-app/tree/withMapboxAndClerk)  
 
 
 
