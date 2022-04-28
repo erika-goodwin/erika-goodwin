@@ -15,17 +15,21 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 
 ## 🖥 Projects I've made so far
 
--  **[POI Map web app](https://erika-poimap.vercel.app/)** - **Next.js, Mapbox, MongoDB, TailwindCss, Clerk** 
-     Rep: [POIMap](https://github.com/erika-goodwin/poimap-app)
-     Next.js app with Mapbox API. Deployed with Vercel.
+-  **[POI Map web app](https://erika-poimap.vercel.app/)** - **Next.js, Mapbox, MongoDB, TailwindCss, Clerk**   
 
-![nodeblogapp-pic11](https://user-images.githubusercontent.com/58070973/165784461-b854e3cc-1d7d-4047-bdb0-7837bd586cbd.png)
+     Rep: [POIMap](https://github.com/erika-goodwin/poimap-app)   
+     Next.js app with Mapbox API. Deployed with Vercel.   
+     
+    <img width="715" alt="POI map, small schreen" src="https://user-images.githubusercontent.com/58070973/165784461-b854e3cc-1d7d-4047-bdb0-7837bd586cbd.png">
+      <img width="715" alt="POI map, full schreen" src="https://user-images.githubusercontent.com/58070973/165785500-a65e6181-e520-4a2f-a331-85fd85ea7a98.png">  
+
 
 - **[My Portfolio](https://www.erikahashizu.me/)** - **React, Node, Express, MongoDB, Mongoose, NodeMailer, Sass**  
 
      Rep: [myPortfolio-client](https://github.com/erika-goodwin/myPortfolio-client/tree/master)  
      Rep: [myPortfolio-server](https://github.com/erika-goodwin/myPortfolio-server/tree/master)  
-     MERN app with Nodemailer. Deployed with Heroku and Netlify.
+     MERN app with Nodemailer. Deployed with Heroku and Netlify.   
+     
      <img width="715" alt="My Portfolio" src="https://user-images.githubusercontent.com/58070973/157274154-dea593ec-df8c-4707-98a7-dcaf3b614659.png">
 
      
