@@ -1,6 +1,6 @@
 # Hey there, I'm Erika Hashizume
 
-I'm a software engineer living in Vancouver 🇨🇦  
+I'm a front-end web developer living in Vancouver 🇨🇦  
 Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 years of experience in airline mechanical engineering.  
 
 **Here's my LinkedIn:** [linkedin.com/in/erika-hashizume](https://www.linkedin.com/in/erika-hashizume-37295a153/)
@@ -9,18 +9,23 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 
 ## 👩‍💻 Projects I'm working on
 
--  **POI Map web app** - Next.js, Mapbox, MongoDB, TailwindCss, Clerk   
-     Rep: [POIMap](https://github.com/erika-goodwin/poimap-app/tree/withMapboxAndClerk)  
+- *between projects* : thinking about ideas for the next task　🤔
 
 
 
 ## 🖥 Projects I've made so far
 
+-  **[POI Map web app](https://erika-poimap.vercel.app/)** - **Next.js, Mapbox, MongoDB, TailwindCss, Clerk** 
+     Rep: [POIMap](https://github.com/erika-goodwin/poimap-app)
+     Next.js app with Mapbox API. Deployed with Vercel.
+
+![nodeblogapp-pic11](https://user-images.githubusercontent.com/58070973/165784461-b854e3cc-1d7d-4047-bdb0-7837bd586cbd.png)
+
 - **[My Portfolio](https://www.erikahashizu.me/)** - **React, Node, Express, MongoDB, Mongoose, NodeMailer, Sass**  
 
      Rep: [myPortfolio-client](https://github.com/erika-goodwin/myPortfolio-client/tree/master)  
      Rep: [myPortfolio-server](https://github.com/erika-goodwin/myPortfolio-server/tree/master)  
-     MERN app with Nodemailer. Deploy with Heroku and Netlify.
+     MERN app with Nodemailer. Deployed with Heroku and Netlify.
      <img width="715" alt="My Portfolio" src="https://user-images.githubusercontent.com/58070973/157274154-dea593ec-df8c-4707-98a7-dcaf3b614659.png">
 
      
@@ -28,26 +33,26 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 
      Rep: [a-0521-node-finalpr-client](https://github.com/erika-goodwin/a-0521-node-finalpr-client/tree/master)  
      Rep: [a-0521-node-finalpr-server](https://github.com/erika-goodwin/a-0521-node-finalpr-server/tree/master)  
-     Node.js authorizaion practice with MERN spec. Deploy with Heroku and Netlify.
+     Node.js authorizaion practice with MERN spec. Deployed with Heroku and Netlify.
      
 
 - **[Blog App](https://node-mongo-blog-app.herokuapp.com/api/blogs)** - **Node, Express, MongoDB, Tailwindscss**  
  
      Rep: [a-0521-node-midpr](https://github.com/erika-goodwin/a0521-node-midpr/tree/master)  
-     Node.js CRUD practice with express. Deploy with Heroku.
+     Node.js CRUD practice with express. Deployed with Heroku.
      
      <img width="715" alt="Blog App" src="https://user-images.githubusercontent.com/58070973/153057065-0feacf26-b6be-45e1-a305-0003c99c08ab.png">
 
 - **[Weather App](https://afternoon-ravine-59477.herokuapp.com/)** - **React, Firebase**  
  
      Rep: [a-0521-ract-midpr](https://github.com/erika-goodwin/a-0521-react-midpr/tree/Main)  
-     The third party API practice and firebase (database and authorization) practice with React.  Deploy with Heroku.   
+     The third party API practice and firebase (database and authorization) practice with React.  Deployed with Heroku.   
       <img width="500" alt="Weather App" src="https://user-images.githubusercontent.com/58070973/145461573-6f378fd1-c76b-48c9-b59d-e44be721b68e.png">
 
 - **[Erika's life showcase](https://erikahashizume.herokuapp.com/)** - **django (python)**  
  
      Rep: [a-0521-dev2-finalpr](https://github.com/erika-goodwin/a-0521-dev2-finalpr)  
-     The framework practice with django (python). Deploy with Heroku.
+     The framework practice with django (python). Deployed with Heroku.
       <img width="715" alt="Erika's life showcase" src="https://user-images.githubusercontent.com/58070973/145462014-face3bfd-836f-49a8-8aad-ca97aacfa54e.png">
 
 - **[Mami's Responsive bakery](https://mamis.netlify.app/)** - **HTML, SCSS, Javascript (Pare work)**
@@ -59,7 +64,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 - **[Yoga Studio Responsive Website](https://zen-banach-69b270.netlify.app/)** - **HTML, CSS**   
 
      Rep: [erika-goodwin.github.io](https://github.com/erika-goodwin/erika-goodwin.github.io)  
-      Basic css layout / responsive website practcice with HTML and CSS. Deploy with Netlify.
+      Basic css layout / responsive website practcice with HTML and CSS. Deployed with Netlify.
       <img width="712" alt="Yoga Studio Website" src="https://user-images.githubusercontent.com/58070973/145461977-0f5ce9cf-2222-4acf-a535-32664f8dc40e.png">  
       <img width="712" alt="Yoga Studio Website" src="https://user-images.githubusercontent.com/58070973/145461984-349e9a96-aabc-4b04-95cc-92c793aff63d.png">
 
