@@ -9,7 +9,8 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 
 ## 👩‍💻 Projects I'm working on
 
-- *between projects* : thinking about ideas for the next task　🤔
+-  **[InteractiveComment-Challenge](https://github.com/erika-goodwin/InteractiveComment-Challenge)** - Next.js, Nest.js, GraphQL, MySQL, TailwindCss    
+   Challenge of Interactive comments section from [Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9) as collaboration project
 
 
 
