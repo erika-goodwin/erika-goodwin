@@ -41,7 +41,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
      Node.js authorizaion practice with MERN spec. Deployed with Heroku and Netlify.
      
 
-- **[Blog App](https://node-mongo-blog-app.herokuapp.com/api/blogs)** - **Node, Express, MongoDB, Tailwindscss**  
+- **[Blog App](https://node-mongo-blog-app.herokuapp.com/api/blogs)** - **Node, Express, EJS, MongoDB, Tailwindscss**  
  
      Rep: [a-0521-node-midpr](https://github.com/erika-goodwin/a0521-node-midpr/tree/master)  
      Node.js CRUD practice with express. Deployed with Heroku.
