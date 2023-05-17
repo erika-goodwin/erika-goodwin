@@ -1,6 +1,6 @@
 # Hey there, I'm Erika Hashizume
 
-I'm a front-end web developer 👩‍💻 @widerfunnel in Vancouver, BC 🇨🇦   
+I'm a front-end web developer 👩‍💻 working at ConversionNA (Former Widerfunnel) in Vancouver, BC 🇨🇦 since 2022.  
 Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 years of experience in airline mechanical engineering.  
 
 **Here's my LinkedIn:** [linkedin.com/in/erika-hashizume](https://www.linkedin.com/in/erika-hashizume-37295a153/)
