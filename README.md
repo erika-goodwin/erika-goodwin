@@ -9,7 +9,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017 and 4 yea
 
 ## 👩‍💻 Projects I'm working on
 
--  **[Google Translate Clone](https://github.com/erika-goodwin/InteractiveComment-Challenge](https://github.com/erika-goodwin/myproject-25-2-google-translater-clone))** - Next.js, TypeScript, TailwindCss, Microsoft Azure AI, Clark, chascn
+-  **[Google Translate Clone](https://github.com/erika-goodwin/myproject-25-2-google-translater-clone)** - Next.js, TypeScript, TailwindCss, Microsoft Azure AI, Clark, chascn
      Having Fun with AI 
 
 
