@@ -1,7 +1,10 @@
 # Hey there, I'm Erika Hashizume
 
 I'm a web developer 👩‍💻 who worked at ConversionNA (Former Widerfunnel) in Vancouver, BC 🇨🇦 from May 2022 to April 2025.
+
 Currently, located in Brittany 🇫🇷 since May 2025, working for Generosity X as a contractor while processing 🇨🇦 PR and studying 🇫🇷 (B1).
+
+
 Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 years of experience in airline mechanical engineering back in 🇯🇵.  
 
 **Here's my LinkedIn:** [linkedin.com/in/erika-hashizume](https://www.linkedin.com/in/erika-hashizume-37295a153/)
