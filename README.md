@@ -23,7 +23,14 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
 
 
 ## 🖥 Projects I've made so far in 2025
-- coming soon -
+-  **[Workout Recorder](https://workout-record-erika.vercel.app/)** - **React, TypeScript, TailwindCss**
+  
+    Rep: [Workout Recorder](https://github.com/erika-goodwin/myproject-25-3-workout-record) \
+    React app with TypeScript & TailwindCss. Deployed with Vercel.
+   
+     <img width="222.5" height="727" alt="Screenshot 2025-09-22 at 9 18 16" src="https://github.com/user-attachments/assets/8bf61805-213a-4e11-91e7-af8aba7f796c" />
+     <img width="229.5" height="423" alt="Screenshot 2025-09-22 at 9 20 14" src="https://github.com/user-attachments/assets/6237258b-4ffc-4b19-ac8d-37f88523b06b" />
+
 
 
 ## 🖥 Projects I've made in 2021-2022
