@@ -19,6 +19,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
 
 -  **[Google Translate Clone](https://github.com/erika-goodwin/myproject-25-2-google-translater-clone)** - Next.js, TypeScript, TailwindCss, Microsoft Azure AI, Clark, chascn
      Having Fun with AI 
+-  **[Daily WOD Tracker](https://github.com/erika-goodwin/myproject-25-4-wod-app)** - **Next.js, TypeScript, TailwindCss, Supabase**
 
 
 
