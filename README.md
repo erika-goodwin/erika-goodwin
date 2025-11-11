@@ -6,7 +6,7 @@ Currently, located in Brittany 🇫🇷, working for Generosity X as a contracto
 Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 years of experience in airline mechanical engineering back in 🇯🇵.  
 
 > Je suis développeur web 👩‍💻 et j'ai travaillé chez ConversionNA (anciennement Widerfunnel) à Vancouver (CB, Canada 🇨🇦) de mai 2022 à avril 2025.\
-> Je réside actuellement en Bretagne 🇫🇷 depuis mai 2025. Je travaille en tant que consultant pour Generosity X tout en finalisant ma demande de résidence permanente au Canada 🇨🇦 et en suivant des cours de français (niveau B1).
+> Je réside actuellement en Bretagne 🇫🇷. Je travaille en tant que consultant pour Generosity X tout en finalisant ma demande de résidence permanente au Canada 🇨🇦 et en suivant des cours de français (niveau B1).
 >
 > Par ailleurs, je suis ingénieur en aérospatiale depuis 2017 et j'ai quatre ans d'expérience en ingénierie mécanique aéronautique au Japon 🇯🇵.
 
