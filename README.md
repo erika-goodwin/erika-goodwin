@@ -48,7 +48,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
       <img width="715" alt="POI map, full schreen" src="https://user-images.githubusercontent.com/58070973/165785500-a65e6181-e520-4a2f-a331-85fd85ea7a98.png">  
 
 
-- **[My Portfolio](https://www.erikahashizu.me/)** - **React, Node, Express, MongoDB, Mongoose, NodeMailer, Sass**  
+- **[My Portfolio](https://erikahashizume-portfolio.netlify.app/)** - **React, Node, Express, MongoDB, Mongoose, NodeMailer, Sass**  
 
      Rep: [myPortfolio-client](https://github.com/erika-goodwin/myPortfolio-client/tree/master)  
      Rep: [myPortfolio-server](https://github.com/erika-goodwin/myPortfolio-server/tree/master)  
