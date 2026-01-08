@@ -29,8 +29,8 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
     Rep: [Workout Recorder](https://github.com/erika-goodwin/myproject-25-3-workout-record) \
     React app with TypeScript & TailwindCss. Deployed with Vercel.
    
-     <img width="800" height="600" alt="wod-shot-1" src="https://github.com/user-attachments/assets/0cfbfc2d-8a61-43c8-98b7-5c9dc07b962f" />
-     <img width="800" height="600" alt="wod-shot-2" src="https://github.com/user-attachments/assets/9ab1e1cb-3f96-4212-9f40-43654da61c84" />
+     <img width="700" height="525" alt="wod-shot-1" src="https://github.com/user-attachments/assets/0cfbfc2d-8a61-43c8-98b7-5c9dc07b962f" />
+     <img width="700" height="525" alt="wod-shot-2" src="https://github.com/user-attachments/assets/9ab1e1cb-3f96-4212-9f40-43654da61c84" />
 
 
 
