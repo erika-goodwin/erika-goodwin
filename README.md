@@ -35,18 +35,16 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
   
     Rep: [/myproject-25-3-workout-record](https://github.com/erika-goodwin/myproject-25-3-workout-record) \
     React app with TypeScript & TailwindCss. Deployed with Vercel.
-   
-     <img width="700" height="525" alt="wod-shot-1" src="https://github.com/user-attachments/assets/0cfbfc2d-8a61-43c8-98b7-5c9dc07b962f" />
-     <img width="700" height="525" alt="wod-shot-2" src="https://github.com/user-attachments/assets/9ab1e1cb-3f96-4212-9f40-43654da61c84" />
+   <img width="700" height="525" alt="wod-shot-2" src="https://github.com/user-attachments/assets/0ab22383-b188-4285-8100-e2e06a477e00" />
+   <img width="700" height="525" alt="wod-shot-1" src="https://github.com/user-attachments/assets/ab965af0-4e5a-4eb6-836e-15a740625003" />
 
 -  **[Portofolio 2026](https://www.erikahashizu.me/)** - **Next.js, TypeScript, TailwindCss**
   
     Rep: [/myproject-26-1-portfolio](https://github.com/erika-goodwin/myproject-26-1-portfolio) \
     Next.js app with TypeScript & TailwindCss. Deployed with Vercel.
 
-<img width="700" height="525" alt="myportfolio-shot" src="https://github.com/user-attachments/assets/b6c44b01-af75-450b-a96d-a604dcf82dd2" />
-
-    <img width="700" height="716.22" alt="myportfolio-shot-2" src="https://github.com/user-attachments/assets/2b0dda72-7804-457b-9a85-f610cfbf6ca4" />
+   <img width="700" height="525" alt="myportfolio-shot" src="https://github.com/user-attachments/assets/b6c44b01-af75-450b-a96d-a604dcf82dd2" />
+   <img width="700" height="716.22" alt="myportfolio-shot-2" src="https://github.com/user-attachments/assets/2b0dda72-7804-457b-9a85-f610cfbf6ca4" />
 
 
 
