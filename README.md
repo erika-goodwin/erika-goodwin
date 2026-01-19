@@ -25,7 +25,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
 ## 🖥 Projects I've made so far in 2025/2026
 -  **[Daily WOD Tracker](https://myproject-25-4-wod-app.vercel.app/)** - **Next.js, TypeScript, TailwindCss, Supabase**
   
-    Rep: [Workout Recorder](https://github.com/erika-goodwin/myproject-25-4-wod-app) \
+    Rep: [/myproject-25-4-wod-app](https://github.com/erika-goodwin/myproject-25-4-wod-app) \
     Next.js app with TypeScript & Subabase (database & Auth). Deployed with Vercel.
 
    <img width="700" height="525" alt="daily-wod-tracker" src="https://github.com/user-attachments/assets/cf7b4590-41c1-4668-83cb-3d161d2c79b9" />
@@ -33,11 +33,20 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
      
 -  **[Workout Recorder](https://workout-record-erika.vercel.app/)** - **React, TypeScript, TailwindCss**
   
-    Rep: [Workout Recorder](https://github.com/erika-goodwin/myproject-25-3-workout-record) \
+    Rep: [/myproject-25-3-workout-record](https://github.com/erika-goodwin/myproject-25-3-workout-record) \
     React app with TypeScript & TailwindCss. Deployed with Vercel.
    
      <img width="700" height="525" alt="wod-shot-1" src="https://github.com/user-attachments/assets/0cfbfc2d-8a61-43c8-98b7-5c9dc07b962f" />
      <img width="700" height="525" alt="wod-shot-2" src="https://github.com/user-attachments/assets/9ab1e1cb-3f96-4212-9f40-43654da61c84" />
+
+-  **[Portofolio 2026](https://www.erikahashizu.me/)** - **Next.js, TypeScript, TailwindCss**
+  
+    Rep: [/myproject-26-1-portfolio](https://github.com/erika-goodwin/myproject-26-1-portfolio) \
+    Next.js app with TypeScript & TailwindCss. Deployed with Vercel.
+    <img width="700" height="525" alt="myportfolio-shot" src="https://github.com/user-attachments/assets/ec888f8b-eac5-4099-ae6d-4d13e47f9220" />
+    <img width="700" height="716.22" alt="myportfolio-shot-2" src="https://github.com/user-attachments/assets/2b0dda72-7804-457b-9a85-f610cfbf6ca4" />
+
+
 
 
 
