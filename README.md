@@ -19,11 +19,18 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
 
 -  **[Google Translate Clone](https://github.com/erika-goodwin/myproject-25-2-google-translater-clone)** - Next.js, TypeScript, TailwindCss, Microsoft Azure AI, Clark, chascn
      Having Fun with AI 
--  **[Daily WOD Tracker](https://github.com/erika-goodwin/myproject-25-4-wod-app)** - **Next.js, TypeScript, TailwindCss, Supabase**
 
 
 
-## 🖥 Projects I've made so far in 2025
+## 🖥 Projects I've made so far in 2025/2026
+-  **[Daily WOD Tracker](https://myproject-25-4-wod-app.vercel.app/)** - **Next.js, TypeScript, TailwindCss, Supabase**
+  
+    Rep: [Workout Recorder](https://github.com/erika-goodwin/myproject-25-4-wod-app) \
+    Next.js app with TypeScript & Subabase (database & Auth). Deployed with Vercel.
+
+   <img width="700" height="525" alt="daily-wod-tracker" src="https://github.com/user-attachments/assets/cf7b4590-41c1-4668-83cb-3d161d2c79b9" />
+
+     
 -  **[Workout Recorder](https://workout-record-erika.vercel.app/)** - **React, TypeScript, TailwindCss**
   
     Rep: [Workout Recorder](https://github.com/erika-goodwin/myproject-25-3-workout-record) \
