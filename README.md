@@ -43,7 +43,9 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
   
     Rep: [/myproject-26-1-portfolio](https://github.com/erika-goodwin/myproject-26-1-portfolio) \
     Next.js app with TypeScript & TailwindCss. Deployed with Vercel.
-    <img width="700" height="525" alt="myportfolio-shot" src="https://github.com/user-attachments/assets/ec888f8b-eac5-4099-ae6d-4d13e47f9220" />
+
+   <img width="700" height="525" alt="myportfolio-shot" src="https://github.com/user-attachments/assets/a69bafa2-99f7-490b-8ffd-542d96fe7e1e" />
+
     <img width="700" height="716.22" alt="myportfolio-shot-2" src="https://github.com/user-attachments/assets/2b0dda72-7804-457b-9a85-f610cfbf6ca4" />
 
 
