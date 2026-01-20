@@ -31,7 +31,7 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
    <img width="700" height="525" alt="daily-wod-tracker" src="https://github.com/user-attachments/assets/cf7b4590-41c1-4668-83cb-3d161d2c79b9" />
 
      
--  **[Workout Recorder](https://workout-record-erika.vercel.app/)** - **React, TypeScript, TailwindCss, Vercel**
+-  **[Workout Recorder](https://workout-record-erika.vercel.app/)** - **React, Vite, TypeScript, TailwindCss, Vercel**
   
     Rep: [/myproject-25-3-workout-record](https://github.com/erika-goodwin/myproject-25-3-workout-record) \
     Track your daily lifts and your PRs!
