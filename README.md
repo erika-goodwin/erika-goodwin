@@ -23,26 +23,26 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
 
 
 ## 🖥 Projects I've made so far in 2025/2026
--  **[Daily WOD Tracker](https://myproject-25-4-wod-app.vercel.app/)** - **Next.js, TypeScript, TailwindCss, Supabase**
+-  **[Daily WOD Tracker](https://myproject-25-4-wod-app.vercel.app/)** - **Next.js, TypeScript, TailwindCss, Supabase, Vercel**
   
     Rep: [/myproject-25-4-wod-app](https://github.com/erika-goodwin/myproject-25-4-wod-app) \
-    Next.js app with TypeScript & Subabase (database & Auth). Deployed with Vercel.
+    Log in, view the Workout of the Day, and track your training history.
 
    <img width="700" height="525" alt="daily-wod-tracker" src="https://github.com/user-attachments/assets/cf7b4590-41c1-4668-83cb-3d161d2c79b9" />
 
      
--  **[Workout Recorder](https://workout-record-erika.vercel.app/)** - **React, TypeScript, TailwindCss**
+-  **[Workout Recorder](https://workout-record-erika.vercel.app/)** - **React, TypeScript, TailwindCss, Vercel**
   
     Rep: [/myproject-25-3-workout-record](https://github.com/erika-goodwin/myproject-25-3-workout-record) \
-    React app with TypeScript & TailwindCss. Deployed with Vercel.
+    Track your daily lifts and your PRs!
+   
    <img width="700" height="525" alt="wod-shot-2" src="https://github.com/user-attachments/assets/0ab22383-b188-4285-8100-e2e06a477e00" />
    <img width="700" height="525" alt="wod-shot-1" src="https://github.com/user-attachments/assets/ab965af0-4e5a-4eb6-836e-15a740625003" />
 
--  **[Portofolio 2026](https://www.erikahashizu.me/)** - **Next.js, TypeScript, TailwindCss**
+-  **[Portofolio 2026](https://www.erikahashizu.me/)** - **Next.js, TypeScript, TailwindCss, Vercel**
   
     Rep: [/myproject-26-1-portfolio](https://github.com/erika-goodwin/myproject-26-1-portfolio) \
-    Next.js app with TypeScript & TailwindCss. Deployed with Vercel.
-
+    A new year, A new country, a new portfolio for a new role!
    <img width="700" height="525" alt="myportfolio-shot" src="https://github.com/user-attachments/assets/b6c44b01-af75-450b-a96d-a604dcf82dd2" />
    <img width="700" height="716.22" alt="myportfolio-shot-2" src="https://github.com/user-attachments/assets/2b0dda72-7804-457b-9a85-f610cfbf6ca4" />
 
