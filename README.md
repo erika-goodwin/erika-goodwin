@@ -22,6 +22,13 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
 -  **[Experiment Dashboard / CRO Dashboard](https://github.com/erika-goodwin/myproject-26-2-experiment-dashboard)** - React, Vite, TypeScript, Tailwind CSS / Node.js, Express, REST APIs / PostgreSQL
 
      A lightweight experimentation and feature-flag dashboard that allows product teams to create experiments, track user behavior via a custom event pipeline, and analyze results to support data-driven product decisions. The site will be fully responsive, fast, and designed with a minimal, professional aesthetic.
+   ### Progress atm
+     - Data Model Planning (Experiments, Variants, Assignments, Events, Users)
+     - Backend set up (Node.js, Express, Supabase/PostgreSQL)
+     - [B] Auth/User CRUD API (GET, POST)
+     - [B] Experiments CRUD API (GET, POST, PUT, DELETE)
+     - [B] Authentication / Access control (Auth Middleware)
+     - Variant Assignment & Event Tracking 👈 Right here right now
    <img width="700" height="466.67" alt="Mockup Example" src="https://github.com/user-attachments/assets/5bf417b6-011a-4184-a75b-44f24473e236" />
 
 
