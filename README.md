@@ -23,14 +23,23 @@ Also, I have an engineering degree in Aerospace Engineering since 2017, and 4 ye
 
      A lightweight experimentation and feature-flag dashboard that allows product teams to create experiments, track user behavior via a custom event pipeline, and analyze results to support data-driven product decisions. The site will be fully responsive, fast, and designed with a minimal, professional aesthetic.
    ### Progress atm [40%] 
-     - ✅ Data Model Planning (Experiments, Variants, Assignments, Events, Users) 
-      - ✅ Backend set up (Node.js, Express, Supabase/PostgreSQL)
-      - ✅ [B] Auth/User CRUD API (GET, POST)
-      - ✅ [B] Experiments CRUD API (GET, POST, PUT, DELETE)
-      - ✅ [B] Authentication / Access control (Auth Middleware)
-      - ✅ [B] Variant Assignment Logic / Variants API (GET, POST, DELETE)
-      - ✅ [B] Event Tracking / events API (POST)
-      - ***Frontend Foundations 👈 Right here right now***
+     - ✅ Data Model Planning
+       - Experiments (id, experiment name, description, status, created_at)
+       - Variants (id, experiment id, variant name, experiment weight)
+       - Assignments (id, experiment id, variant id, anonymous/user id, assigned_at)
+       - Events (id, experiment id, variant id, anonymous/user id, event type, created_at)
+       - Users (id, email, hashed password, created_at)
+     - ✅ Backend set up (Node.js, Express, Supabase/PostgreSQL)
+     - ✅ [B] Auth/User CRUD API (GET, POST)
+       - email address is parsed by schema with zod
+       - password is hashed with bcrypt
+       - securely transmitting information by JWT with jsonwebtoken
+     - ✅ [B] Experiments CRUD API (GET, POST, PUT, DELETE)
+     - ✅ [B] Authentication / Access control (Auth Middleware)
+       - API access is protected with Middleware
+     - ✅ [B] Variant Assignment Logic / Variants API (GET, POST, DELETE)
+     - ✅ [B] Event Tracking / events API (POST)
+     - ***Frontend Foundations 👈 Right here right now***
    <img width="700" height="466.67" alt="Mockup Example" src="https://github.com/user-attachments/assets/5bf417b6-011a-4184-a75b-44f24473e236" />
 
 
